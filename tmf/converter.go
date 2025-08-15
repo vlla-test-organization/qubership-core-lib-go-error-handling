@@ -3,7 +3,7 @@ package tmf
 import (
 	"strconv"
 
-	"github.com/netcracker/qubership-core-lib-go-error-handling/v3/errors"
+	"github.com/vlla-test-organization/qubership-core-lib-go-error-handling/v3/errors"
 )
 
 type Converter interface {

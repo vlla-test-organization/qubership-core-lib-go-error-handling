@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/netcracker/qubership-core-lib-go-error-handling/v3/errors"
 	"github.com/stretchr/testify/require"
+	"github.com/vlla-test-organization/qubership-core-lib-go-error-handling/v3/errors"
 )
 
 type CustomErr struct {

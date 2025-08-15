@@ -1,4 +1,4 @@
-module github.com/netcracker/qubership-core-lib-go-error-handling/v3
+module github.com/vlla-test-organization/qubership-core-lib-go-error-handling/v3
 
 go 1.22
 
