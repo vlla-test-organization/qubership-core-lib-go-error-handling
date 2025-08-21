@@ -2,7 +2,6 @@ module github.com/vlla-test-organization/qubership-core-lib-go-error-handling/v3
 
 go 1.22
 
-retract v3.0.1
 
 require (
 	github.com/google/uuid v1.6.0
